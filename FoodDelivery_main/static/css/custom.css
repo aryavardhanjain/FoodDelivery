@@ -10,4 +10,5 @@
     bottom: 100%;
     right: 20px;
     animation: show-toast 7s;
+    z-index: 99;
 }
